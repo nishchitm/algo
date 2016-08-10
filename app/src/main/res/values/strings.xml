@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Algo1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="navigator_chitkara">Chitkara University</string>
+    <string name="navigator_1">Home</string>
+    <string name="navigator_2">About the fest</string>
+    <string name="navigator_3">Zones</string>
+    <string name="navigator_4">Special Attraction</string>
+    <string name="navigator_5">Schedule</string>
+    <string name="navigator_6">Guidelines</string>
+    <string name="navigator_7">Accomodation</string>
+    <string name="navigator_8">How to reach</string>
+    <string name="navigator_9">Contact Us</string>
+    <string name="navigator_10">Sponsors</string>
+    <string name="navigator_11">Developers</string>
+
+    <string name="timer_days">Days</string>
+    <string name="timer_hours">Hours</string>
+    <string name="timer_minutes">Minutes</string>
+    <string name="timer_seconds">Seconds</string>
+    <string name="timer_title">Time Remaining</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="algo">algo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
